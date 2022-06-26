@@ -1,3 +1,9 @@
 server:
   port: 8887
 
+token: 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
+
+
+Github:
+  userUrl: https://api.github.com/user
+  accessUrl: https://github.com/login/oauth/access_token
